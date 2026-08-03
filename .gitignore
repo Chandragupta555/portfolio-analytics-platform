@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Market data cache
+src/data/cache/
+src/data/cache/*.csv
+
