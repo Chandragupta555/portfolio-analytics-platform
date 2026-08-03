@@ -1,0 +1,20 @@
+{
+  "name": "Sample Tech Portfolio",
+  "start_date": "2023-01-01",
+  "end_date": "2024-12-31",
+  "risk_free_rate": 0.02,
+  "holdings": [
+    {
+      "ticker": "AAPL",
+      "weight": 0.4
+    },
+    {
+      "ticker": "MSFT",
+      "weight": 0.35
+    },
+    {
+      "ticker": "GOOGL",
+      "weight": 0.25
+    }
+  ]
+}
