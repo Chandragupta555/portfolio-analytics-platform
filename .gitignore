@@ -221,3 +221,7 @@ __marimo__/
 src/data/cache/
 src/data/cache/*.csv
 
+# Generated report output
+output/
+
+
